@@ -1,13 +1,43 @@
 [
-    {"id":"1","name":"Replace Tire","price":2000, "description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.", "time":2,"img":"https://i.ibb.co/Wy8Mx3b/6.jpg"},
+    {
+        "id":"1",
+        "name":"Replace Tire",
+        "price":2000, 
+        "description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.", 
+        "time":2,
+        "img":"https://i.ibb.co/Wy8Mx3b/6.jpg"},
 
-    {"id":"2","name":"ENGINE DIAGNOSTIC","price":2000,"time":2,"description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.","img":"https://i.ibb.co/ykgPRMB/5.jpg"},
+    {
+        "id":"2",
+        "name":"ENGINE DIAGNOSTIC",
+        "price":2000,
+        "time":2,
+        "description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.",
+        "img":"https://i.ibb.co/ykgPRMB/5.jpg"},
 
-    {"id":"3","name":"WHEEL ALIGNMENT","price":3000,"time":2,"description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.","img":"https://i.ibb.co/phXxNsT/4.jpg"},
+    {
+        "id":"3",
+        "name":"WHEEL ALIGNMENT",
+        "price":3000,
+        "time":2,
+        "description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.",
+        "img":"https://i.ibb.co/phXxNsT/4.jpg"},
 
-    {"id":"4","name":"Replace Tire","price":7000,"time":2,"description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.","img":"https://i.ibb.co/gvJKs0S/3.jpg"},
+    {
+        "id":"4",
+        "name":"Replace Tire",
+        "price":7000,
+        "time":2,
+        "description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.",
+        "img":"https://i.ibb.co/gvJKs0S/3.jpg"},
 
-    {"id":"5","name":"Replace KICU NA","price":4000,"time":2,"description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.","img":"https://i.ibb.co/3rpr5w3/1.jpg"},
+    {
+        "id":"5",
+        "name":"Replace KICU NA",
+        "price":4000,
+        "time":2,
+        "description":"lorem ipsum dolor sit ame, consectetu rediptusi cing elitBeatae autem.",
+        "img":"https://i.ibb.co/3rpr5w3/1.jpg"},
 
     {
         "id":"6",
